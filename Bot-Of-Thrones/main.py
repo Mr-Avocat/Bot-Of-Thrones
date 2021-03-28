@@ -9,4 +9,4 @@ bot = commands.Bot(command_prefix = "!", description = "Je suis là pour vous ac
 async def on_ready():
     print("ready !")
 
-bot.run("NzE0Nzc2OTEzMzgxNDI1MTgy.Xszl4A.shPDNMijUlOTa7EuX65GlfCqqeE")
+bot.run("Token")
